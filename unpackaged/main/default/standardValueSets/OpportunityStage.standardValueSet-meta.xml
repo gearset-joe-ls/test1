@@ -91,13 +91,4 @@
         <probability>0</probability>
         <won>false</won>
     </standardValue>
-    <standardValue>
-        <fullName>beep</fullName>
-        <default>false</default>
-        <label>beep</label>
-        <closed>false</closed>
-        <forecastCategory>Pipeline</forecastCategory>
-        <probability>1</probability>
-        <won>false</won>
-    </standardValue>
 </StandardValueSet>
