@@ -135,12 +135,16 @@
     <searchLayouts>
         <customTabListAdditionalFields>Type</customTabListAdditionalFields>
         <customTabListAdditionalFields>DecisionMatrixType</customTabListAdditionalFields>
+        <customTabListAdditionalFields>UsageType</customTabListAdditionalFields>
         <lookupDialogsAdditionalFields>Type</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>DecisionMatrixType</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>UsageType</lookupDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>Type</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>DecisionMatrixType</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>UsageType</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>Type</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>DecisionMatrixType</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>UsageType</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>Private</sharingModel>
 </CustomObject>
