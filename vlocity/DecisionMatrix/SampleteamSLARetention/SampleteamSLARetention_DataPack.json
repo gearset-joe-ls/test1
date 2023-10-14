@@ -9,6 +9,7 @@
     "SubGroupKey": "",
     "Type": "Standard",
     "UniqueName": "SampleteamSLARetention",
+    "UsageType": "",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "CalculationMatrix",
     "VlocityRecordSourceKey": "CalculationMatrix/SampleteamSLARetention"
