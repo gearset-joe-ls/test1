@@ -19,6 +19,5 @@
     "Type": "sample",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "OmniProcess",
-    "VlocityRecordSourceKey": "OmniProcess/sample/getCaseDetails/Procedure",
-    "WebComponentKey": "ff4a6bd5-446b-b8ae-8e13-7792bcb10bff"
+    "VlocityRecordSourceKey": "OmniProcess/sample/getCaseDetails/Procedure"
 }

@@ -23,6 +23,5 @@
     "Type": "Reusable",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "OmniProcess",
-    "VlocityRecordSourceKey": "OmniProcess/Reusable/Sample/English",
-    "WebComponentKey": "74c6e411-a174-1fa7-e2df-465bba8300e5"
+    "VlocityRecordSourceKey": "OmniProcess/Reusable/Sample/English"
 }

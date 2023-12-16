@@ -20,6 +20,5 @@
     "Type": "team",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "OmniProcess",
-    "VlocityRecordSourceKey": "OmniProcess/team/savePrimaryContactDetails/Procedure",
-    "WebComponentKey": "d03b8e86-ea95-c552-e595-b9810730c27a"
+    "VlocityRecordSourceKey": "OmniProcess/team/savePrimaryContactDetails/Procedure"
 }

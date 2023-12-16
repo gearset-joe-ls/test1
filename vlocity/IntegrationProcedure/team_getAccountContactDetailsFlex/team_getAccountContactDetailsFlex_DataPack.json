@@ -19,6 +19,5 @@
     "Type": "team",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "OmniProcess",
-    "VlocityRecordSourceKey": "OmniProcess/team/getAccountContactDetailsFlex/Procedure",
-    "WebComponentKey": "7df57c3e-498f-aed3-ec3a-1173c88b5a53"
+    "VlocityRecordSourceKey": "OmniProcess/team/getAccountContactDetailsFlex/Procedure"
 }

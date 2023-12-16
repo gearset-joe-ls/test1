@@ -15,6 +15,5 @@
     "Type": "team",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "OmniProcess",
-    "VlocityRecordSourceKey": "OmniProcess/team/saveAccountDetails/Procedure",
-    "WebComponentKey": "11e8f4f5-76ad-81ab-5d67-7a1c89185b91"
+    "VlocityRecordSourceKey": "OmniProcess/team/saveAccountDetails/Procedure"
 }

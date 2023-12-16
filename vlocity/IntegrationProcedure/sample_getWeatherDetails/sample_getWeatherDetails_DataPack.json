@@ -23,6 +23,5 @@
     "Type": "sample",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "OmniProcess",
-    "VlocityRecordSourceKey": "OmniProcess/sample/getWeatherDetails/Procedure",
-    "WebComponentKey": "24f97b0c-68d7-0cbf-9004-8ad0161e4a50"
+    "VlocityRecordSourceKey": "OmniProcess/sample/getWeatherDetails/Procedure"
 }
