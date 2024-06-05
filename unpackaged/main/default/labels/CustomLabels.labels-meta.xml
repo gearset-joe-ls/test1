@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="utf-8"?><CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
         <fullName>label1</fullName>
         <language>en_US</language>
@@ -19,6 +18,13 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>test</shortDescription>
-        <value>test5</value>
+        <value>test68</value>
+    </labels>
+    <labels>
+        <fullName>testssh1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>testssh1</shortDescription>
+        <value>banana2</value>
     </labels>
 </CustomLabels>
