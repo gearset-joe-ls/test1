@@ -28,13 +28,6 @@
         <value>orange15</value>
     </labels>
     <labels>
-        <fullName>qwer</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>qwer</shortDescription>
-        <value>blahblah</value>
-    </labels>
-    <labels>
         <fullName>testssh1</fullName>
         <language>en_US</language>
         <protected>true</protected>
