@@ -1,6 +1,6 @@
 {
     "BatchSize": "",
-    "Description": "",
+    "Description": "dfgfdgdfgdfgdf",
     "ExpectedInputJson": "",
     "ExpectedInputOtherData": "",
     "ExpectedInputXml": "",
@@ -39,7 +39,7 @@
     "TargetOutputFileName": "",
     "Type": "Extract",
     "UniqueName": "",
-    "VersionNumber": 1,
+    "VersionNumber": 2,
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "OmniDataTransform",
     "VlocityRecordSourceKey": "OmniDataTransform/kjg",
