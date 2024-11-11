@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>A_thing</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>A thing</shortDescription>
+        <value>alaskjdlsakd</value>
+    </labels>
+    <labels>
         <fullName>label1</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -20,6 +27,13 @@
         <protected>true</protected>
         <shortDescription>test</shortDescription>
         <value>orange23</value>
+    </labels>
+    <labels>
+        <fullName>qwer</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>qwer</shortDescription>
+        <value>blahblah</value>
     </labels>
     <labels>
         <fullName>testssh1</fullName>
