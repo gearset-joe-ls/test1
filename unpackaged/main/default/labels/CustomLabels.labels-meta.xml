@@ -42,4 +42,11 @@
         <shortDescription>testssh1</shortDescription>
         <value>banana3</value>
     </labels>
+    <labels>
+        <fullName>thisshouldappear</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>testssh1</shortDescription>
+        <value>thisshouldappear</value>
+    </labels>
 </CustomLabels>
