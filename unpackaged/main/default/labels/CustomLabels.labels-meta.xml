@@ -36,6 +36,13 @@
         <value>blahblah</value>
     </labels>
     <labels>
+        <fullName>test1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>test1</shortDescription>
+        <value>test1</value>
+    </labels>
+    <labels>
         <fullName>testssh1</fullName>
         <language>en_US</language>
         <protected>true</protected>
