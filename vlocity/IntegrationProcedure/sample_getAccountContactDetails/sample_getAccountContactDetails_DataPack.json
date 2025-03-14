@@ -2,6 +2,7 @@
     "CustomJavaScript": "sample_getAccountContactDetails_SampleInput.json",
     "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
     "IsIntegrationProcedure": true,
+    "IsManagedUsingStdDesigner": false,
     "IsMetadataCacheDisabled": false,
     "IsOmniScriptEmbeddable": false,
     "IsTestProcedure": false,

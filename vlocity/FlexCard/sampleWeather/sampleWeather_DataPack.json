@@ -29,6 +29,7 @@
         }
     },
     "Description": "",
+    "IsManagedUsingStdDesigner": false,
     "IsTrackingEnabled": false,
     "Name": "sampleWeather",
     "Namespace": "",

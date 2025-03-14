@@ -25,6 +25,7 @@
         }
     },
     "Description": "",
+    "IsManagedUsingStdDesigner": false,
     "IsTrackingEnabled": false,
     "Name": "sampleContacts",
     "Namespace": "",

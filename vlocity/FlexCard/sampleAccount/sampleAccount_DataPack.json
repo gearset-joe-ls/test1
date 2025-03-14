@@ -25,6 +25,7 @@
         }
     },
     "Description": "Use if you didn't build a teamAccount FlexCard",
+    "IsManagedUsingStdDesigner": false,
     "IsTrackingEnabled": false,
     "Name": "sampleAccount",
     "Namespace": "",

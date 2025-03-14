@@ -15,6 +15,7 @@
     "IsDeletedOnSuccess": false,
     "IsErrorIgnored": false,
     "IsFieldLevelSecurityEnabled": false,
+    "IsManagedUsingStdDesigner": false,
     "IsNullInputsIncludedInOutput": false,
     "IsProcessSuperBulk": false,
     "IsRollbackOnError": false,
